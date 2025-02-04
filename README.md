@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bonxie-snhu
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... Python, Javascript
-- 📫 How to reach me ... bluesky @
+- 📫 How to reach me ... bluesky @bnntt.bsky.social
 - 😄 Pronouns: ... she/her/hers
 
 - Welcome! This is collection of activities during my study of a BS in Computer Science. 
