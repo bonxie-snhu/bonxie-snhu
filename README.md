@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bonxie-snhu
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Python, Javascript
+- 🌱 I’m currently learning ... Python, Javascript, C++, etc.
 - 📫 How to reach me ... bluesky @bnntt.bsky.social
 - 😄 Pronouns: ... she/her/hers
 
